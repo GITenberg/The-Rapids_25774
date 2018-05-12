@@ -1,0 +1,31 @@
+_repo: The-Rapids_25774
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sullivan, Alan
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '31574'
+    url: http://www.gutenberg.org/2009/agents/31574
+    wikipedia: http://en.wikipedia.org/wiki/Alan_Sullivan
+description: A novel inspired by the life of Francis Hector Clergue, an American businessman
+  who became the leading industrialist of Sault Ste. Marie, Ontario at the turn of
+  the 20th century.
+gutenberg_issued: '2008-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'F1001'
+- !lcsh 'Ontario -- History -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Ontario -- Fiction'
+title: The Rapids
+url: http://www.gutenberg.org/ebooks/25774
