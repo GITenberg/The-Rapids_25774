@@ -14,6 +14,8 @@ creator:
 description: A novel inspired by the life of Francis Hector Clergue, an American businessman
   who became the leading industrialist of Sault Ste. Marie, Ontario at the turn of
   the 20th century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25774#The-Rapids
 gutenberg_issued: '2008-06-13'
 gutenberg_type: Text
 identifiers:
